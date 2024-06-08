@@ -1,0 +1,28 @@
+@font-face {
+  font-family: samim;
+  font-style: normal;
+  font-weight: 900;
+  src: url("../Fonts/Samim-FD.woff") format("woff");
+}
+@font-face {
+  font-family: samim;
+  font-style: normal;
+  font-weight: 700;
+  src: url("../Fonts/Samim-FD.woff") format("woff");
+}
+@font-face {
+  font-family: samim;
+  font-style: normal;
+  font-weight: 500;
+  src: url("../Fonts/Samim-FD.woff") format("woff");
+}
+
+*{
+    font-family: samim;
+}
+
+.container h2 {
+  font-weight: bold;
+}
+
+
